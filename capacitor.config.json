@@ -1,0 +1,12 @@
+{
+  "appId": "com.pronote.cartesiastudio",
+  "appName": "DrawNote Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": [
+      "api.cartesia.ai"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "DrawNote & Voice AI",
+  "short_name": "DrawNote",
+  "description": "Native DrawNote Unlimited Notes, Sketch Canvas & Cartesia Voice AI APK with White/Black Theme Toggle",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5F6F8",
+  "theme_color": "#0095FF",
+  "orientation": "portrait-primary"
+}

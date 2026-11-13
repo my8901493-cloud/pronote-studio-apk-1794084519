@@ -1,0 +1,17 @@
+{
+  "name": "pronote-studio-cartesia-apk",
+  "version": "3.1.0",
+  "description": "DrawNote & Cartesia Voice AI Native Android APK",
+  "private": true,
+  "scripts": {
+    "sync": "npx cap sync android",
+    "build:apk": "cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
